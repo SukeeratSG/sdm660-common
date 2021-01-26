@@ -81,3 +81,10 @@ persist.timed.enable=true
 # WiFi Display
 persist.debug.wfd.enable=1
 persist.sys.wfd.virtual=0
+
+# Havoc Props
+
+ro.havoc.device.name=Asus Max Pro M2
+ro.havoc.group.url=t.me/havoc_X01BD
+ro.havoc.maintainer=Sukeerat Singh Goindi
+ro.havoc.maintainer.username=irongfly
